@@ -1,3 +1,8 @@
+
+
+"""
+i will train to be amazing in my domain
+"""
     #for gui we will use tkinter
 import tkinter as tk
     #for nlp we will use nltk(natrual language toolkit)
